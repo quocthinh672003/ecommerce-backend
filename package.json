@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/quocthinh672003/ecommerce-backend/issues"
   },
-  "homepage": "https://github.com/quocthinh672003/ecommerce-backend#readme"
+  "homepage": "https://github.com/quocthinh672003/ecommerce-backend#readme",
+  "devDependencies": {
+    "helmet": "^8.1.0",
+    "morgan": "^1.10.1"
+  },
+  "dependencies": {
+    "compresion": "^1.7.11"
+  }
 }
